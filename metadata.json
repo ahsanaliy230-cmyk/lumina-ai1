@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI",
+  "description": "An advanced educational and interactive AI tutor with voice input, image generation, and multimodal analysis capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
